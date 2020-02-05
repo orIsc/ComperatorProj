@@ -14,9 +14,9 @@ public class Driver {
 	listS.add(s2);
 	listS.add(s3);
 	
-	Car c1 = new Car("Volvo", 2009);
-	Car c2 = new Car("Mercedes", 2017);
-	Car c3 = new Car("Jeep", 2020);
+	Car c1 = new Car("Volvo","s60", 2009);
+	Car c2 = new Car("Mercedes","e63", 2017);
+	Car c3 = new Car("Jeep","rubicon", 2020);
 	
 	List<Car> listC = new ArrayList<>();
 	listC.add(c1);
